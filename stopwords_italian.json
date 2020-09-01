@@ -1,0 +1,32 @@
+{
+    "stopwords": [
+        "fanpage",
+        "bit ly",
+        "bit",
+        "it",
+        "ly",
+        "_url_",
+        ".it",
+        "_url_",
+        "_URL_",
+        "dobbiamo",
+        "vuole",
+        "soprattutto",
+        "entrare",
+        "continua",
+        "video",
+        "tanti",
+        "nuova",
+        "vogliamo",
+        "davvero",
+        "dare",
+        "bisogna",
+        "devono",
+        "possono",
+        "serve",
+        "vieni",
+        "trova",
+        "firma",
+        "user"
+    ]
+}
